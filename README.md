@@ -18,8 +18,7 @@ Original Purpose
 IndieInfoTech needs to keep a running list of proposals for presentation, venue adjustments, 
 and feedback from the public and allow several facets to apply to each topic item.
 
-On top of public opinion.  Staff members can tag items for recommendations using tags.
+On top of public opinion.  Staff members can tag items for recommendations.
 
-Tags are rich and can be dates, links, or simply text.
-
+Tags are rich short text fields that can be associated with several rich types including dates, links, attachments, and straight text documentation.
 
