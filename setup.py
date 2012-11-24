@@ -28,10 +28,8 @@ setup(
         'Intended Audience :: System Administrators',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
-        'Topic :: System :: Networking',
         'Topic :: Database',
         'Topic :: Communications',
-        'Topic :: System :: Distributed Computing',
     ],
 )
 

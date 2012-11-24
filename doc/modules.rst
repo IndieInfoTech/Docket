@@ -1,0 +1,4 @@
+:mod:`docket`
+=============
+
+.. automodule:: docket
